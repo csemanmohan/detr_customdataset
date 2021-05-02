@@ -1,4 +1,4 @@
-**DEâ«¶TR**: Object Detection with Transformers - Finetuning Model with COCO Dataset.
+**DETR**: Object Detection with Transformers - Finetuning Model with COCO Dataset.
 ========
 Using PyTorch and DETR opensource github codebase we are developing a system to train already Trained DETR Model. 
 
